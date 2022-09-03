@@ -6,6 +6,5 @@
 - 😄 I’m interested in DevOps anad Cloud services
 - 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
 - 📫 Ping me myhanh.nguyen.969317598@gmail.com
-- My portfolio: https://hannah-portfolio.surge.sh/
 
 
