@@ -7,6 +7,5 @@
 - 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
 - 📫 Ping me myhanh.nguyen.969317598@gmail.com
 - My portfolio: https://hannah-portfolio.surge.sh/
-- My LinkedIn: https://www.linkedin.com/in/hanh-nguyen-0a47b6185/
 
 
