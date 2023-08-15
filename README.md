@@ -8,7 +8,7 @@
 - 😄 I’m interested in DevOps and Cloud services
 - 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
 - <a href="https://hannah-portfolio.surge.sh/" > Check out my portfolio </a>
-- 📫 Ping me: <a href="https://www.linkedin.com/in/hanhnguyen24/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a>   or  myhanh.nguyen.969317598@gmail.com
+- 📫 Ping me: <a href="https://www.linkedin.com/in/hanhnguyen24/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="30px"/></a>   or  myhanh.nguyen.969317598@gmail.com
 
 #### My Certifications
 
