@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on front-end/back-end/full-stack projects
 - <a href="https://hannah-portfolio.surge.sh/" > Check out my portfolio </a>
 - 📫 Ping me: <a href="https://www.linkedin.com/in/hanhnguyen24/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="30px"/></a>   or  myhanh.nguyen.969317598@gmail.com
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahNguyen6729&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Certifications
 
