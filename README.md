@@ -2,13 +2,14 @@
 - 🔭 I’m currently working on Booking Movie Ticket project
 - 🌱 I’m currently learning technologies: GraphQL, DevOps 
 - 🌱 I'm comfortable with: 
-   - Front-end: ReactJS, Redux-saga, Redux-thunk, redux Toolkit, TypeScript, JavaScript, NextJs, Node.JS, ExpressJs, MongoDB, mongoose, JQuery, Ant Design, MAterial UI (MUI), Material Design for Bootstrap (MDB), TailwindCss, Framer Motion, Bootstrap, SASS, HTML, CSS, Netlify, Surge , Heroku
-   - Back-end: NodeJs, ExpressJs, MongoDB, MongoDB Atlas, MySQL, Socketio, PostgresSQL
+   - Front-end: ReactJS, Redux-saga, Redux-thunk, redux Toolkit, TypeScript, JavaScript, NextJs, Node.JS, ExpressJs, MongoDB, mongoose, JQuery, Ant Design, Material UI (MUI), Material Design for Bootstrap (MDB), TailwindCss, Framer Motion, Bootstrap, SASS, HTML, CSS, Netlify, Surge, Heroku
+   - Back-end: NodeJs, ExpressJs, MongoDB, MongoDB Atlas, MySQL, Socketio, PostgreSQL
    - Others: Java, C#, OOP,
 - 😄 I’m interested in DevOps and Cloud services
-- 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
+- 👯 I’m looking to collaborate on front-end/back-end/full-stack projects
 - <a href="https://hannah-portfolio.surge.sh/" > Check out my portfolio </a>
 - 📫 Ping me: <a href="https://www.linkedin.com/in/hanhnguyen24/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="30px"/></a>   or  myhanh.nguyen.969317598@gmail.com
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahNguyen6729&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Certifications
 
