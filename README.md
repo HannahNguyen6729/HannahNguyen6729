@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 👨‍💻 I am a Software Developer living in Finland. I'm also an anime & a cat lover :)
+- 👨‍💻 I am a Software Developer living in Finland. I'm also an anime & cat lover :)
 - 😄 I’m interested in DevOps and Cloud services
 - 👯 I’m looking to collaborate on front-end/back-end/full-stack projects
 - <a href="https://hannah-portfolio.surge.sh/" > Check out my portfolio </a>
