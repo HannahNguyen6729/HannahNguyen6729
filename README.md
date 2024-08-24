@@ -56,4 +56,4 @@
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" /> 
 
 <br/>
-https://github-readme-stats.vercel.app/api/top-langs/?username=HannahNguyen6729&langs_count=15&layout=donut&&hide=scss
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahNguyen6729&exclude_repo=Test-Automation&langs_count=15&layout=donut&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
