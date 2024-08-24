@@ -11,6 +11,8 @@
 
 <img  alt="professional-scrum-master-i-psm-i" src="https://user-images.githubusercontent.com/40695548/152005920-811b9b68-c2ed-4371-b6ac-c0083f26f749.png" width="100px"/><img alt="microsoft-certified-azure-fundamentals" src="https://user-images.githubusercontent.com/40695548/152005929-ae2b1aa2-22cc-4a05-afb0-8688d62d7f81.png" width="100px"/><img alt="AWS-Certified-Cloud-Practitioner" src="https://user-images.githubusercontent.com/40695548/156188753-442a1f51-3e9c-410a-83e7-79ed736efc2e.png" width="100px"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahNguyen6729&exclude_repo=Test-Automation&langs_count=15&layout=donut&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -56,4 +58,4 @@
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" /> 
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahNguyen6729&exclude_repo=Test-Automation&langs_count=15&layout=donut&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+
